@@ -1,0 +1,4 @@
+.vscode/*
+*.lst
+target/*
+.DS_Store
